@@ -1,0 +1,6 @@
+/scr/__pycache__
+scr/chromedriver
+scr/chromedriver_mac64.zip
+notebooks/.ipynb_checkpoints
+notebooks/chromedriver
+geckodriver.log
