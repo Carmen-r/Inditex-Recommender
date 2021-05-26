@@ -16,7 +16,7 @@ The main objective of this idea is to make a comparison between garments from di
 
 About the data and tools, I have used: 
 
-[Selenium][id1] to extract the product information such as ID, URL, image and name.
+[Selenium][id1] to extract the product information such as ID, URL, image and price.
 
 [id1]: https://selenium-python.readthedocs.io/ "Selenium"
 
@@ -35,3 +35,11 @@ About the data and tools, I have used:
 ## STEPS 🚀
 
 The first steps were to make a project plan and to analyze which tools we were going to use to extract all the data, as well as to study its feasibility. 
+
+Then after handling the tools I was going to use, I extracted all the necessary information about products of the two stores with selenium, so that when I wanted to select a white t-shirt I could have the product ID, name, price, image and URL.
+
+Thirdly, I used an internal inditex API through which I obtained information about the store: the store ID, latitude and longitude, street name, as well as the opening hours.
+
+
+Finally, with an internal API common to all Inditex I obtained information about the stock availability, which had data about the ID of the store, and the stock availability at that moment.
+
