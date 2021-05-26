@@ -13,14 +13,14 @@ The main objective of Inditex recommender is to make a comparison between garmen
 
 About the data and tools, I have used: 
 
-[Selenium][id] to extract the product information such as ID, URL, image and name.
+[Selenium][id1] to extract the product information such as ID, URL, image and name.
 
-[id]: https://selenium-python.readthedocs.io/ "Selenium"
+[id1]: https://selenium-python.readthedocs.io/ "Selenium"
 
-[API][id] to get information about the store such as ID, street and information about the opening hours.
+[API][id2] to get information about the store such as ID, street and information about the opening hours.
 
-[id]: https://pypi.org/project/ApiDoc/
+[id2]: https://pypi.org/project/ApiDoc/ "API"
 
-[API][id] for updated stock information. Extract the id of the product and the stores, in addition to the available units
+[API][id2] for updated stock information. Extract the id of the product and the stores, in addition to the available units
 
-[id]: https://pypi.org/project/ApiDoc/
+[id2]: https://pypi.org/project/ApiDoc/ "API"
