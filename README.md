@@ -32,6 +32,32 @@ About the data and tools, I have used:
 
 [id3]: https://streamlit.io/ "Streamlit"
 
+
+## LIBRARIES 🤓
+
+[Selenium][id1]
+
+[Pandas][id4]
+
+[id4]: https://pandas.pydata.org/docs/ "Pandas"
+
+[Numpy][id5]
+
+[id5]: https://numpy.org/doc/stable/user/whatisnumpy.html "Numpy"
+
+[Requests][id6]
+
+[id6]: https://docs.python-requests.org/en/master/ "Requests"
+
+[Geocoder][id7]
+
+[id7]: https://pypi.org/project/geocoder/ "Geocoder"
+
+[Folium][id8]
+
+[id8]: https://pypi.org/project/folium/ "Folium"
+
+
 ## STEPS 🚀
 
 The first steps were to make a project plan and to analyze which tools we were going to use to extract all the data, as well as to study its feasibility. 
