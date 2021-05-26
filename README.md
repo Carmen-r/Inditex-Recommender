@@ -9,9 +9,18 @@ This is the final [Ironhack][id] project. Among other things, it is designed to 
 [id]: https://www.ironhack.com/es "Ironhack"
 The main objective of Inditex recommender is to make a comparison between garments from different stores, i.e. when you want to buy a certain product you can see the different price options, available stock, store closest to your location and an image of the product.
 
-WHAT IS NEED? TOOLS ⚙️
+## WHAT IS NEED? TOOLS ⚙️
 
-About the data and tools, I have used [Selenium][id] to extract the product information such as ID, URL, image and name.
+About the data and tools, I have used: 
+
+[Selenium][id] to extract the product information such as ID, URL, image and name.
 
 [id]: https://selenium-python.readthedocs.io/ "Selenium"
 
+[API][id] to get information about the store such as ID, street and information about the opening hours.
+
+[id]: https://pypi.org/project/ApiDoc/
+
+[API][id] for updated stock information. Extract the id of the product and the stores, in addition to the available units
+
+[id]: https://pypi.org/project/ApiDoc/
