@@ -11,6 +11,7 @@ The main objective of Inditex recommender is to make a comparison between garmen
 
 WHAT IS NEED? TOOLS ⚙️
 
-About the data and tools, I have used Selenium to extract the product information such as ID, URL, image and name.
+About the data and tools, I have used [Selenium][id] to extract the product information such as ID, URL, image and name.
 
+[id]: https://selenium-python.readthedocs.io/ "Selenium"
 
