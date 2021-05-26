@@ -21,6 +21,10 @@ About the data and tools, I have used:
 
 [id2]: https://pypi.org/project/ApiDoc/ "API"
 
-[API][id2] for updated stock information. Extract the id of the product and the stores, in addition to the available units
+[API][id2] for updated stock information. Extract the id of the product and the stores, in addition to the available units.
 
 [id2]: https://pypi.org/project/ApiDoc/ "API"
+
+[Streamlit][id3] to write the type of product and the location display the garment I have selected.
+
+[id3]: https://streamlit.io/ "Streamlit"
