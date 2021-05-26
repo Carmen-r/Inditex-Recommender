@@ -5,6 +5,7 @@
 ## GOAL ⚡️
 
 This is the final proyect is design to work with some of the tools used throughout the [Ironhack][id] course.
-The objetive of this proyect is to make a price comparison between Inditex garments 
 [id]: https://www.ironhack.com/es "Ironhack"
+The objetive of this proyect is to make a price comparison between Inditex garments 
+
 
