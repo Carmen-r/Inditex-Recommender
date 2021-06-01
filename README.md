@@ -1,6 +1,6 @@
 # Inditex-Recommender 
 
-![Imagen_text](https://github.com/Carmen-r/Inditex-Recommender/blob/main/image/port_inditex.jpg)
+![Imagen_text](https://github.com/Carmen-r/Inditex-Recommender/blob/main/image/in_rec.jpg)
 
 ## GOAL ⚡️
 
